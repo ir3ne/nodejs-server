@@ -1,4 +1,4 @@
-# Nodejs Server
+# Nodejs Server 🚀
 
 A simple nodejs server for reading json file.
 
@@ -13,6 +13,14 @@ Install all of the node modules.
 ```bash
 npm install
 ```
+
+## Running
+
+```bash
+node server
+```
+
+You can see it on localhost:3000
 
 ## Built With
 
