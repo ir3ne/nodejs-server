@@ -1,6 +1,6 @@
 const appContainer = document.getElementById('root');
 
-// Here is where you can fetch the url you set in server.js for fetching your json file
+// Here is where you can fetch the url you set in server.js for your json file
 fetch('/users')
   .then(function(r) {
     console.log(r.status);
