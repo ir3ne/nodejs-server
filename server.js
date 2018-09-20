@@ -11,6 +11,7 @@ app.get('/', function(req, res) {
 
 app.use(express.static(__dirname + '/public'));
 
+// Here is where you can set urls for your json files
 app.get('/users', function(req, res) {
   res.sendFile(__dirname + '/json/users.json');
 });
