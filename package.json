@@ -1,19 +1,36 @@
 {
-  "name": "node-express",
+  "name": "nodejs-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "nodejs, express, json",
   "main": "server.js",
+  "author": "Irene Tomaini",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ir3ne/nodejs-server.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
     "node": "^10.7.0"
   },
   "devDependencies": {
+<<<<<<< Updated upstream
     "nodemon": "^1.18.3"
   }
+=======
+    "html-webpack-plugin": "^3.2.0",
+    "nodemon": "^1.18.3",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.8"
+  },
+  "bugs": {
+    "url": "https://github.com/ir3ne/nodejs-server/issues"
+  },
+  "homepage": "https://github.com/ir3ne/nodejs-server/blob/master/README.md"
+>>>>>>> Stashed changes
 }
