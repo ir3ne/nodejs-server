@@ -26,6 +26,7 @@ You can see it on localhost:3000
 
 - [Nodejs](https://github.com/nodejs/node) - JavaScript runtime
 - [Expressjs](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node
+- [Nodemon](https://nodemon.io/) - Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.
 
 ## Authors
 
